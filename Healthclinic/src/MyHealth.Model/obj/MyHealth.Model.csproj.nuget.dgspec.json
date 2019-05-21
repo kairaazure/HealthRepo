@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj",
+        "projectName": "MyHealth.Model",
+        "projectPath": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj",
+        "packagesPath": "C:\\Users\\kirti.bansal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\NuGet.Config",
+          "C:\\Users\\kirti.bansal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ]
+        }
+      }
+    }
+  }
+}

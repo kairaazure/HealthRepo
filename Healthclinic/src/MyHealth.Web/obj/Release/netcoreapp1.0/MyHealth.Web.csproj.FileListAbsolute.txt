@@ -1,0 +1,16 @@
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\content\lib\angular\.bower.json
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Web.deps.json
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Web.runtimeconfig.json
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Web.runtimeconfig.dev.json
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Web.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Web.pdb
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.API.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Data.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Model.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Data.pdb
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.API.pdb
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\bin\Release\netcoreapp1.0\MyHealth.Model.pdb
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\obj\Release\netcoreapp1.0\MyHealth.Web.csprojResolveAssemblyReference.cache
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\obj\Release\netcoreapp1.0\MyHealth.Web.AssemblyInfo.cs
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\obj\Release\netcoreapp1.0\MyHealth.Web.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.Web\obj\Release\netcoreapp1.0\MyHealth.Web.pdb

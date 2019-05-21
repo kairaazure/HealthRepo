@@ -1,0 +1,11 @@
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\bin\Release\netstandard1.6\MyHealth.API.deps.json
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\bin\Release\netstandard1.6\MyHealth.API.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\bin\Release\netstandard1.6\MyHealth.API.pdb
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\bin\Release\netstandard1.6\MyHealth.Data.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\bin\Release\netstandard1.6\MyHealth.Model.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\bin\Release\netstandard1.6\MyHealth.Data.pdb
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\bin\Release\netstandard1.6\MyHealth.Model.pdb
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\obj\Release\netstandard1.6\MyHealth.API.csprojResolveAssemblyReference.cache
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\obj\Release\netstandard1.6\MyHealth.API.AssemblyInfo.cs
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\obj\Release\netstandard1.6\MyHealth.API.dll
+C:\Users\kirti.bansal\Downloads\MyHealthClinic\src\MyHealth.API\obj\Release\netstandard1.6\MyHealth.API.pdb

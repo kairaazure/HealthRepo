@@ -1,0 +1,14 @@
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\bin\Debug\netstandard1.6\MyHealth.API.deps.json
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\bin\Debug\netstandard1.6\MyHealth.API.dll
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\bin\Debug\netstandard1.6\MyHealth.API.pdb
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\bin\Debug\netstandard1.6\MyHealth.Data.dll
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\bin\Debug\netstandard1.6\MyHealth.Model.dll
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\bin\Debug\netstandard1.6\MyHealth.Data.pdb
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\bin\Debug\netstandard1.6\MyHealth.Model.pdb
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\obj\Debug\netstandard1.6\MyHealth.API.csprojAssemblyReference.cache
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\obj\Debug\netstandard1.6\MyHealth.API.csproj.CoreCompileInputs.cache
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\obj\Debug\netstandard1.6\MyHealth.API.AssemblyInfoInputs.cache
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\obj\Debug\netstandard1.6\MyHealth.API.AssemblyInfo.cs
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\obj\Debug\netstandard1.6\MyHealth.API.csproj.CopyComplete
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\obj\Debug\netstandard1.6\MyHealth.API.dll
+C:\Users\kirti.bansal\source\repos\MyHealthClinic\src\MyHealth.API\obj\Debug\netstandard1.6\MyHealth.API.pdb

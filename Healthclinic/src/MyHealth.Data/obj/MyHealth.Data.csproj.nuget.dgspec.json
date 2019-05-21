@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Data\\MyHealth.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Data\\MyHealth.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Data\\MyHealth.Data.csproj",
+        "projectName": "MyHealth.Data",
+        "projectPath": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Data\\MyHealth.Data.csproj",
+        "packagesPath": "C:\\Users\\kirti.bansal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\NuGet.Config",
+          "C:\\Users\\kirti.bansal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {
+              "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj": {
+                "projectPath": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj",
+        "projectName": "MyHealth.Model",
+        "projectPath": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\MyHealth.Model.csproj",
+        "packagesPath": "C:\\Users\\kirti.bansal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\src\\MyHealth.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kirti.bansal\\source\\repos\\MyHealthClinic\\NuGet.Config",
+          "C:\\Users\\kirti.bansal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ]
+        }
+      }
+    }
+  }
+}
