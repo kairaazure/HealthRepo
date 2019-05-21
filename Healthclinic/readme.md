@@ -16,7 +16,7 @@ You can find the old, original code on this [GitHub repo](https://github.com/Mic
 * An active Azure subscription 
 
 ## Blogs posts
-
+#####
 Here's links to blog posts related to this project:
 
 [Connect(“demos”);](http://blogs.msdn.com/b/visualstudio/archive/2015/12/08/connect-demos-2015-healthclinic-biz.aspx) // 2015: HealthClinic.biz by Erika Ehrli
